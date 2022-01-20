@@ -9,5 +9,5 @@ function fakeBin(x){
     return console.log(x.split('').map(i => i < 5 ? 0 : 1).join());
 }
 
-fakeBin('45381552930107884358068')
+fakeBin('453815529130107884358068')
 
